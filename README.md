@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maiara Sacramento 👋
 
 
-- 🔭 Hoje trabalho com Tecnologias Educacionais, Anaalista de Dados e Professora da Unime Anhanguera
+- 🔭 Hoje trabalho com Tecnologias Educacionais, Analista de Dados e Professora da Unime Anhanguera
 - 😄 Pronouns: ela/dela
 
 <div align="center">
