@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Maiara Sacramento 👋
 
 
-- 🔭 Hoje trabalho com Tecnologias Educacionais e Dev Front-end
-- 🌱 Estudando JavaScript, TypeScript e REACT
+- 🔭 Hoje trabalho com Tecnologias Educacionais, Anaalista de Dados e Professora da Unime Anhanguera
 - 😄 Pronouns: ela/dela
 
 <div align="center">
